@@ -1,1 +1,1 @@
-A place to place sidemap8
+A place to place sidemap
